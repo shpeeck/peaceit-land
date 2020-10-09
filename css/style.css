@@ -74,6 +74,16 @@ body {
     list-style: none;
     cursor: pointer;
 }
+
+.navigation__list-link {
+    text-decoration: none;
+    color:  #fff;;
+}
+
+.navigation__list-link:hover {
+    color: #101010;
+}
+
 .navigation__list-item:last-child {
     margin-right: 0;
 }
