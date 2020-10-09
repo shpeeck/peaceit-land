@@ -151,7 +151,7 @@ body {
 }
 
 .about__content {
-    max-width: 400px;
+    max-width: 450px;
 }
 
 .about__content-title {
@@ -175,7 +175,7 @@ body {
 }
 
 .about__img-link {
-    max-width: 400px;
+    max-width: 450px;
     margin-right: 50px;
 }
 
@@ -324,7 +324,7 @@ body {
 }
 
 .saving__content {
-    max-width: 400px;
+    max-width: 450px;
 }
 
 .saving__content-title {
@@ -347,7 +347,7 @@ body {
 }
 
 .saving-img {
-    max-width: 500px;
+    max-width: 550px;
     border-radius: 15px;
 }
 
